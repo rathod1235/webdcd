@@ -45,13 +45,13 @@ $(document).ready(function(){
 				<a href="#home" class="ha" > HOME</a>
 			</div>
 			<div class="col-xs-3">
-				<a href="#order" class="ha">ORDER US</a>
+				<a href="#order" class="ha">ORDER</a>
 			</div>
 			<div class="col-xs-3">
-				<a href="#about"  class="ha">ABOUT US</a>
+				<a href="#about"  class="ha">ABOUT</a>
 			</div>
 			<div class="col-xs-3">
-				<a href="#contact" class="ha">CONTACT US</a>
+				<a href="#contact" class="ha">CONTACTS</a>
 			</div>
 		</div>
 	</nav>
@@ -68,7 +68,8 @@ $(document).ready(function(){
 				<h1>
 					Welcome to WEBDCD!
 				</h1>
-			<p> We design and develop webistes that are dynamic and operable in all range of devices. Order now to have your website made!.
+                        <br>
+			<p> Welcome aboard.What will you have? Coffee or Tea?
 			</p> 
 		</div>
 		<div class="div">
@@ -199,7 +200,7 @@ $(document).ready(function(){
 			<h1>About Us</h1>
 			<p>This website is made by two students of IIIT Allahabad.</p>
 			<h3>Rathod Veerender</h3>
-				<h6>Front End Developer</h6>
+				
 				
 				<p>Rathod is a student at IIIT Allahabad. 
 				He is very passionate about photography,
@@ -210,12 +211,12 @@ $(document).ready(function(){
 			</h3>
 		<br>
 			<h3>Surya Prakash</h3>
-			<h6>Back End Developer</h6>
+			
 			<p>
 				Hello There!!.My name is Surya. I am the one who wrote the content of this 
 				website. Don't worry if it doesn't make any sense.It's not meant to be.
 				<br>
-				I am a science enthusiasist. I have particular interest in quantum mechanics and
+				I am a science enthusiast. I have particular interest in quantum mechanics and
 				artificial intelligence.'
 			</p>
 		
